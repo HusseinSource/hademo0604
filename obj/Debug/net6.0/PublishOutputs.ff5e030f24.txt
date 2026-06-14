@@ -1,0 +1,7 @@
+D:\AZ-204\Web Apps\hademo0604\bin\Debug\net6.0\publish\hademo0604.exe
+D:\AZ-204\Web Apps\hademo0604\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\AZ-204\Web Apps\hademo0604\bin\Debug\net6.0\publish\appsettings.json
+D:\AZ-204\Web Apps\hademo0604\bin\Debug\net6.0\publish\hademo0604.dll
+D:\AZ-204\Web Apps\hademo0604\bin\Debug\net6.0\publish\hademo0604.deps.json
+D:\AZ-204\Web Apps\hademo0604\bin\Debug\net6.0\publish\hademo0604.runtimeconfig.json
+D:\AZ-204\Web Apps\hademo0604\bin\Debug\net6.0\publish\hademo0604.pdb
